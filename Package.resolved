@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MotionInterchange",
+        "repositoryURL": "https://github.com/malcantarabliss/motion-interchange-objc",
+        "state": {
+          "branch": "feature/spm",
+          "revision": "7ba639f569becb79ba2092dde92804271c0246df",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

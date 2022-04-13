@@ -14,9 +14,9 @@
  limitations under the License.
  */
 
-#import "MDMAnimationRegistrar.h"
+#import "../include/MDMAnimationRegistrar.h"
 
-#import "MDMRegisteredAnimation.h"
+#import "../include/MDMRegisteredAnimation.h"
 
 @implementation MDMAnimationRegistrar {
   NSMapTable<CALayer *, NSMutableSet<MDMRegisteredAnimation *> *> *_layersToRegisteredAnimation;

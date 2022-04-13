@@ -14,7 +14,7 @@
  limitations under the License.
  */
 
-#import "MDMUIKitValueCoercion.h"
+#import "../include/MDMUIKitValueCoercion.h"
 
 #import <UIKit/UIKit.h>
 

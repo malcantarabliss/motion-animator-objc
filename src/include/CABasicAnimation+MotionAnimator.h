@@ -21,7 +21,7 @@
 #ifdef IS_BAZEL_BUILD
 #import "MotionInterchange.h"
 #else
-#import <MotionInterchange/MotionInterchange.h>
+#import "MotionInterchange.h"
 #endif
 
 // Returns a basic animation configured with the provided traits and scale factor.

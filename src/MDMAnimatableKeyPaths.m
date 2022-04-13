@@ -14,7 +14,7 @@
  limitations under the License.
  */
 
-#import "MDMAnimatableKeyPaths.h"
+#import "include/MDMAnimatableKeyPaths.h"
 
 MDMAnimatableKeyPath MDMKeyPathAnchorPoint = @"anchorPoint";
 MDMAnimatableKeyPath MDMKeyPathBackgroundColor = @"backgroundColor";

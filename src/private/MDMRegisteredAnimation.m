@@ -14,7 +14,7 @@
  limitations under the License.
  */
 
-#import "MDMRegisteredAnimation.h"
+#import "../include/MDMRegisteredAnimation.h"
 
 @implementation MDMRegisteredAnimation
 

@@ -20,7 +20,7 @@
 #ifdef IS_BAZEL_BUILD
 #import "MotionInterchange.h"
 #else
-#import <MotionInterchange/MotionInterchange.h>
+#import "MotionInterchange.h"
 #endif
 
 #import "MDMAnimatableKeyPaths.h"
