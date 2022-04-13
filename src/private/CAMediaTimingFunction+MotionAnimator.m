@@ -14,7 +14,7 @@
  limitations under the License.
  */
 
-#import "../include/CAMediaTimingFunction+MotionAnimator.h"
+#import "CAMediaTimingFunction+MotionAnimator.h"
 
 CAMediaTimingFunction* MDMTimingFunctionWithControlPoints(CGFloat controlPoints[4]) {
   return [CAMediaTimingFunction functionWithControlPoints:(float)controlPoints[0]

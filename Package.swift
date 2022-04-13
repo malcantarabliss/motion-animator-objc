@@ -23,6 +23,6 @@ let package = Package(
             name: "MotionAnimator",
             dependencies: [.productItem(name: "MotionInterchange", package: "motion-interchange-objc", condition: nil)],
             path: "src",
-            publicHeadersPath: "include"),
+            publicHeadersPath: "include/MotionAnimator"),
     ]
 )

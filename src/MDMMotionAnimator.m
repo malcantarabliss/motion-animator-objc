@@ -14,16 +14,16 @@
  limitations under the License.
  */
 
-#import "include/MDMMotionAnimator.h"
+#import "MDMMotionAnimator.h"
 
 #import <UIKit/UIKit.h>
 
-#import "include/CATransaction+MotionAnimator.h"
-#import "include/CABasicAnimation+MotionAnimator.h"
-#import "include/MDMAnimationRegistrar.h"
-#import "include/MDMUIKitValueCoercion.h"
-#import "include/MDMBlockAnimations.h"
-#import "include/MDMDragCoefficient.h"
+#import "CATransaction+MotionAnimator.h"
+#import "private/CABasicAnimation+MotionAnimator.h"
+#import "private/MDMAnimationRegistrar.h"
+#import "private/MDMUIKitValueCoercion.h"
+#import "private/MDMBlockAnimations.h"
+#import "private/MDMDragCoefficient.h"
 
 @implementation MDMMotionAnimator {
   NSMutableArray *_tracers;

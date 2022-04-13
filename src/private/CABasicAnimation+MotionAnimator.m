@@ -14,10 +14,10 @@
  limitations under the License.
  */
 
-#import "../include/CABasicAnimation+MotionAnimator.h"
+#import "CABasicAnimation+MotionAnimator.h"
 
-#import "../include/CAMediaTimingFunction+MotionAnimator.h"
-#import "../include/MDMAnimatableKeyPaths.h"
+#import "CAMediaTimingFunction+MotionAnimator.h"
+#import "../MDMAnimatableKeyPaths.h"
 
 #import <UIKit/UIKit.h>
 

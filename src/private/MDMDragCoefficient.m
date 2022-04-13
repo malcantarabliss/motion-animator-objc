@@ -14,7 +14,7 @@
  limitations under the License.
  */
 
-#import "../include/MDMDragCoefficient.h"
+#import "MDMDragCoefficient.h"
 
 #import <UIKit/UIKit.h>
 

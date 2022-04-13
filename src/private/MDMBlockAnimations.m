@@ -14,10 +14,10 @@
  limitations under the License.
  */
 
-#import "../include/MDMBlockAnimations.h"
+#import "MDMBlockAnimations.h"
 
-#import "../include/MDMMotionAnimator.h"
-#import "../include/MDMAnimatableKeyPaths.h"
+#import "../MDMMotionAnimator.h"
+#import "../MDMAnimatableKeyPaths.h"
 
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
